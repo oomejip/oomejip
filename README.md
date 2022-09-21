@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oomejip&label=Profile%20views&color=0e75b6&style=flat" alt="oomejip" /> </p>
 
-- 🌱 I’m currently learning **QBCore Developing**
-
-- 👀 I’m interested in. **FiveM Development**
 
 
 
