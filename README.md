@@ -11,5 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oomejip&show_icons=true&locale=en" alt="oomejip" /></p>
 
-
-
+## What i do 
+- At the momment i m learning QBCore developing 
